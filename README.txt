@@ -4,3 +4,6 @@ Buatlah Halaman web pribadi yang isinya adalah :
 3. Portofolio, Pengalaman travelling dan organisasi dengan foto
 4. Komentar, dikirim dari form dn langsung ditampilkan ke 
    Halaman webnya. Tidak perlu simpan ke database.
+5. Kirim filenya dari PHP Storm, commit dengan git, cukup kirim
+   folder, controller dan view saja ketika mencentang pada saat
+   melakukan commit
